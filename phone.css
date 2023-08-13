@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  }
+
+  .gameArea {
+    width: 315px;
+    height: 352px;
+  }
+
+  input {
+    width: 90%;
+    height: 70px;
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 2rem 0;
+    color: black;
+  }
+
+  .btn {
+    width: 140px;
+    height: 60px;
+    border-radius: 16px;
+    color: black;
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: cursive;
+    border: 2px solid black;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition-property: all;
+    transition-duration: 0.5s;
+  }
+
+  .msg {
+    font-size: 20px;
+  }
